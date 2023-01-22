@@ -1,0 +1,142 @@
+.close button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 1.5em;
+  padding: 0;
+  margin-bottom: 20px;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.title h1 {
+  font-size: 1.3em;
+  margin: 0;
+  padding: 0;
+  color: #439a97;
+}
+
+.entry {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.entry label {
+  font-size: 0.9em;
+  margin-bottom: 15px;
+}
+
+.entry input {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  font-size: 1em;
+  padding: 8px 0;
+  margin-bottom: 10px;
+}
+.entry select {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  font-size: 1em;
+  padding: 8px 0;
+  margin-bottom: 10px;
+}
+
+.entry input::placeholder {
+  font-size: 0.8em;
+}
+
+.mics {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.mics label {
+  font-size: 0.9em;
+  margin-bottom: 15px;
+}
+
+.forgot-password a {
+  font-size: 0.9em;
+  color: black;
+  text-decoration: none;
+}
+
+.mics .vertical-div .entry {
+  margin-bottom: 0;
+}
+
+/* SignUp Form */
+
+.subentry {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gender {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.gender-element input {
+  margin: 0.4rem;
+}
+.firstName {
+  display: flex;
+  flex-direction: column;
+}
+.lastName {
+  display: flex;
+  flex-direction: column;
+}
+
+.name input {
+  width: 130px;
+}
+
+.gender {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.gender label {
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+.gender input {
+  margin: 0;
+  padding: 0;
+}
+.isGuide label {
+  margin: 0;
+  margin-right: 10px;
+  padding: 0;
+}
+.isGuide input {
+  margin: 0;
+
+  padding: 0;
+}
+
+.isGuide {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.genderinputs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
