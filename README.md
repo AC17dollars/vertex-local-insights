@@ -14,5 +14,5 @@ Local Insights offers a unique and authentic experience by providing information
 ## Contributors
 [Abhinav Chalise](https://github.com/ac17dollars)</br>
 [Nishan Khanal](https://github.com/nikhanal)</br>
-[Nimesh Gopal Pradhan](https://github.com/nimehs)</br>
+[Nimesh Gopal Pradhan](https://github.com/fruit-punchsamurai)</br>
 [Saugat Neupane](https://github.com/saugatn3)
